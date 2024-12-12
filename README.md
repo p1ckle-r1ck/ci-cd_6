@@ -62,3 +62,8 @@
 
 ### Важно 
 После выполнения задания выключите и удалите все задействованные ресурсы в Yandex Cloud.
+
+![alt text](screenshots/gitlab-ci.png)
+![alt text](screenshots/dockerfile.png)
+![alt text](screenshots/log_pipeline.png)
+![alt text](screenshots/issue_complete.png)
